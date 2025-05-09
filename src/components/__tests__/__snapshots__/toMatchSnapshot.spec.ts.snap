@@ -1,0 +1,9 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`test toMatchSnapshot 1`] = `
+{
+  "analysis": "analysis alias",
+  "domain": "domain",
+  "url": "url",
+}
+`;
